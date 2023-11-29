@@ -33,4 +33,4 @@
 ```
 
 ### открывающая страница сайта
-![открывающая страница сайта](https://github.com/liuyanbing0728/web_lab_aib_frontend/tree/main/labs/Lab_03_html_intro/yblab3/lyb.png)
+![открывающая страница сайта](https://github.com/liuyanbing0728/web_lab_aib_frontend/blob/main/labs/Lab_03_html_intro/lyblab3/lyb.png)
