@@ -98,4 +98,4 @@ img{
 ```
 
 ### открывающая страница сайта
-![открывающая страница сайта](https://github.com/liuyanbing0728/web_lab_aib_frontend/tree/main/labs/Lab_04_CSS_intro/lc/04.png)
+![открывающая страница сайта](https://github.com/liuyanbing0728/web_lab_aib_frontend/blob/main/labs/Lab_04_CSS_intro/lc/04.png)
